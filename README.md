@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm a full stack software engineer that ❤'s Javascript.
+I'm a full stack software engineer that ❤'s Javascript. 🌱 I’m currently learning Kotlin and Dart.
+
+👯 I’m looking to collaborate on web and mobile application's.
+
+
+
 <!--
 **thomasdreyer/thomasdreyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
