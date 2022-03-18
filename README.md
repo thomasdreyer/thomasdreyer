@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack software engineer that ❤'s Javascript. 🌱 I’m currently learning Kotlin and Dart.
+I'm a senior software engineer that ❤'s Javascript. 🌱 I’m currently learning Kotlin and Dart.
 
 👯 I’m looking to collaborate on web and mobile application's.
 
