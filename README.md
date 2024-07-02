@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a software engineer that ❤'s Javascript. 🌱 I’m currently learning Kotlin and Dart.
+I'm a full stack software developer based in Johannesburg South Africa.
 
-👯 I’m looking to collaborate on web and mobile application's.
+🌱 I'm a polygot (Javascript, Java, C#, Kotlin and Dart ) but I have ❤ for Javascript!
+
+👯 I’m looking to collaborate on web and mobile application's and working on cutting edge software products
 
 
 
